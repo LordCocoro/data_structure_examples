@@ -1,0 +1,42 @@
+[{
+    "cx": 40,
+    "cy": 70,
+    "r": 5,
+    "group": "points"
+}, {
+    "cx": 70,
+    "cy": 13,
+    "r": 5,
+    "group": "points"
+}, {
+    "cx": 90,
+    "cy": 40,
+    "r": 5,
+    "group": "points"
+}, {
+    "cx": 11,
+    "cy": 100,
+    "r": 5,
+    "group": "points"
+}, {
+    "id": "closest",
+    "cx": 140,
+    "cy": 110,
+    "r": 5,
+    "group": "points"
+}, {
+    "cx": 15,
+    "cy": 30,
+    "r": 5,
+    "group": "points"
+}, {
+    "cx": 16,
+    "cy": 100,
+    "r": 5,
+    "group": "points"
+}, {
+    "id": "pivot",
+    "cx": 140,
+    "cy": 90,
+    "r": 5
+}]
